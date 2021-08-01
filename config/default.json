@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://UrashimaTaro:Patches2020@cluster0.2hrt1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "EseWeyEsBienFeo"
+}
